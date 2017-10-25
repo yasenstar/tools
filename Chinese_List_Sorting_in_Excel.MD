@@ -43,6 +43,10 @@ Now coming to Chinese Name column, **the default rule *(from Microsoft)* for Chi
 
 *but here I don't understand why g and k's order is not correct!*
 
-Anyway, this is not the understandable sorting result, but the 
+Anyway, this is not the understandable sorting result, but the lucky way is Excel (need to check SQL DB) provides one option to create Customized Sorting Rule, refer to below screenshot, through this, actually we can direct indicate how the different Chinese words should be sorted through adding one sorting list, then, instead of choose A-Z or Z-A, you can choose from the "custom list...":
 
 ![Create Customized Sorting Rule in Excel](/pics/customized_sorting_in_excel.jpg)
+
+From Custom List, it's able to sort by whatever order we want.
+
+I think this can be applied to other language like Japanese, Indic, Korean, Arabic, etc..
