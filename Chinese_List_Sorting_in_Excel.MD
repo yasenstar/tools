@@ -43,4 +43,6 @@ Now coming to Chinese Name column, **the default rule *(from Microsoft)* for Chi
 
 *but here I don't understand why g and k's order is not correct!*
 
-Anyway, this is not the 
+Anyway, this is not the understandable sorting result, but the 
+
+![Create Customized Sorting Rule in Excel](/pics/customized_sorting_in_excel.jpg)
