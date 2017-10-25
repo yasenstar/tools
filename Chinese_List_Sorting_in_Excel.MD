@@ -17,4 +17,18 @@ Using below table as example, be noticed, there's PinYin used by Chinese to indi
 
 (currently it's no specific order)
 
+If we sort by A-Z in English Name column, it's naturally getting as below:
 
+|中文名称（Chinese Name）|拼音名称（Chinese PinYin）|英文名称（English Name）*(A-Z)*|
+|-----------------------|-----------------------:| :--------------------:|
+|客车 |keche |bus |
+|工程机械 |gongchengjixie |construction equipment|
+|卡车 |kache |truck |
+
+If we sort by A-Z in Chinese PinYin, the same rule about applies, just that will based on the alphabet order in PinYin
+
+|中文名称（Chinese Name）|拼音名称（Chinese PinYin）*(A-Z)*|英文名称（English Name）|
+|-----------------------|-----------------------:| :--------------------:|
+|工程机械 |gongchengjixie |construction equipment|
+|卡车 |kache |truck |
+|客车 |keche |bus |
