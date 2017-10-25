@@ -1,4 +1,4 @@
-# How to Manage the Customized Sorting of Chinese Language List in Microsoft Product (Excel, SQL, etc.)
+# How to Manage the Data List Sorting in Microsoft Product (Excel, SQL, etc.)
 
 Microsoft product family relating to spreadsheet treatment, e.g. Excel, SQL DB, (possible including Access), are dealing with data list, so it's important to understand how the sorting rules applying to the data list.
 
@@ -25,6 +25,8 @@ If we sort by A-Z in English Name column, it's naturally getting as below:
 |工程机械 |gongchengjixie |construction equipment|
 |卡车 |kache |truck |
 
+## Chinese Language List
+
 If we sort by A-Z in Chinese PinYin, the same rule about applies, just that will based on the alphabet order in PinYin
 
 |中文名称（Chinese Name）|拼音名称（Chinese PinYin）*(A-Z)*|英文名称（English Name）|
@@ -50,3 +52,11 @@ Anyway, this is not the understandable sorting result, but the lucky way is Exce
 From Custom List, it's able to sort by whatever order we want.
 
 I think this can be applied to other language like Japanese, Indic, Korean, Arabic, etc..
+
+## Japanese (TBA)
+
+## Indian Local Language - Indic (TBA)
+
+## Korean (TBA)
+
+## (more...)
