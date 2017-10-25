@@ -8,3 +8,12 @@ Adding double-bytes language, it's becoming complicated, this file intends to do
 
 Using below table as example, be noticed, there's PinYin used by Chinese to indicate the pronounciation of Chinese character.
 *From [here in wikipedia](https://en.wikipedia.org/wiki/Pinyin) you can learn information about Chinese PinYin.*
+
+|中文名称（Chinese Name）|拼音名称（Chinese PinYin）|英文名称（English Name）|
+|-----------------------|-----------------------:| :--------------------:|
+|卡车 | kache | truck |
+|客车 | keche | bus |
+|工程机械 | gongchengjixie | construction equipment|
+(currently it's no specific order)
+
+
