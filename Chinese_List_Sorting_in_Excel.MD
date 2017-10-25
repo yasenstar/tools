@@ -7,4 +7,4 @@ In English language, by default, there're A-Z and Z-A methods, for sorting via c
 Adding double-bytes language, it's becoming complicated, this file intends to document how the sorting applys to Chinese words in the data list.
 
 Using below table as example, be noticed, there's PinYin used by Chinese to indicate the pronounciation of Chinese character.
-*From [here in wikipedia](https://en.wikipedia.org/wiki/Pinyin) you can learn information about Chinese PinYin.
+*From [here in wikipedia](https://en.wikipedia.org/wiki/Pinyin) you can learn information about Chinese PinYin.*
