@@ -14,6 +14,7 @@ Using below table as example, be noticed, there's PinYin used by Chinese to indi
 |卡车 |kache |truck |
 |客车 |keche |bus |
 |工程机械 |gongchengjixie |construction equipment|
+
 (currently it's no specific order)
 
 
